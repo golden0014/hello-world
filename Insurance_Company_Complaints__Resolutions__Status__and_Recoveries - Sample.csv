@@ -1,0 +1,17 @@
+Company,File No.,Opened,Closed,Coverage,SubCoverage,Reason,SubReason,Disposition,Conclusion,Recovery,Status
+"Anthem Health Plans, Inc",7045593,05/31/2022,06/02/2022,Group,Health Only,Claim Handling,Medically Necessary,Company Position Substantiated,Company Position Upheld,0.00,Closed
+"Anthem Health Plans, Inc",7043381,02/28/2022,06/02/2022,Group,Health Only,Claim Handling,Provider Contract Issue,Claim Settled,Satisfied,6467.30,Closed
+Aetna Health and Life Insurance Company,7047493,08/25/2022,08/29/2022,Group,A & H,Claim Handling,Claim Handling Other,,Company Position Upheld,0.00,Closed
+"Anthem Health Plans, Inc",7052007,02/23/2023,03/17/2023,A & H,A & H,Marketing & Sales,Duplicate Coverage,Compromised Settlement/Resolution,Premium Refund,2179.32,Closed
+"Anthem Health Plans, Inc",7044860,05/03/2022,06/02/2022,A & H,Health Only,Claim Handling,Denial,Claim Settled,Claim Paid,147.58,Closed
+"Anthem Health Plans, Inc",7057449,09/13/2023,09/18/2023,,,Claim Handling,External Review,,,0.00,Closed
+"Anthem Health Plans, Inc",7043381,02/28/2022,06/02/2022,Group,A & H,Claim Handling,Provider Contract Issue,Claim Settled,Satisfied,6467.30,Closed
+"Anthem Health Plans, Inc",7057828,09/28/2023,12/14/2023,A & H,Health Only,Claim Handling,Unsatisfactory Settlement,Question of Fact/Contract/Provision/Legal Issue,Provider Issue,1855.20,Closed
+"Anthem Health Plans, Inc",7057828,09/28/2023,12/14/2023,A & H,Health Only,Claim Handling,Provider Contract Issue,Question of Fact/Contract/Provision/Legal Issue,Provider Issue,1855.20,Closed
+"Anthem Health Plans, Inc",7054758,06/01/2023,06/21/2023,Group,A & H,Claim Handling,Provider Contract Issue,,Provider Issue,0.00,Closed
+UnitedHealthcare Insurance Company,7054679,05/29/2023,06/21/2023,A & H,A & H,Claim Handling,Out of Network Benefits,Claim Settled,Claim Paid,0.00,Closed
+National Guardian Life Insurance Company,7057392,09/11/2023,09/18/2023,Individual Life,Whole Life,Marketing & Sales,Producer Handling,,,0.00,Closed
+Cigna Health and Life Insurance Company,7053424,04/14/2023,06/21/2023,Group,Dental,Claim Handling,"Co-pay, Deductible, and Co-Insurance Issues",Company Position Substantiated,,0.00,Closed
+"Anthem Health Plans, Inc",7044860,05/03/2022,06/02/2022,A & H,A & H,Claim Handling,Denial,Claim Settled,Claim Paid,147.58,Closed
+Nationwide Mutual Insurance Company,7048101,09/21/2022,03/17/2023,Travel,,Claim Handling,Unsatisfactory Settlement/Offer,Claim Settled,Additional Money Received,35.52,Closed
+Omni Insurance Company,7054976,06/08/2023,06/21/2023,Individual Private Passenger,Comprehensive,Claim Handling,Prompt Pay,,Additional Money Received,2017.19,Closed
